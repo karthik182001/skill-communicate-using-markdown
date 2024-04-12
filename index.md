@@ -5,5 +5,4 @@
 ##### heading 5
 ###### heading 6
 
-javascript
 var myVar = "Hello, world!";
