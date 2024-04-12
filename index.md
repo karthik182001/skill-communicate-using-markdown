@@ -4,5 +4,4 @@
 #### heading 4
 ##### heading 5
 ###### heading 6
-
-var myVar = "Hello, world!";
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
